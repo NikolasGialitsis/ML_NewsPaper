@@ -1,16 +1,16 @@
-<div style="width:800px;margin:200px;">
-  <p><a href="https://towardsdatascience.com/deploying-a-simple-ui-for-python-88e8e7cbbf61"><img width="150" align='right' src="https://cdn-  images-1.medium.com/max/1200/0*qq1KYo_jJmLn2hjl"></a></p>&nbsp;&nbsp;
-</div>
 
-<div>
+
+
+
+<div style="width:800px;margin:200px;">
+  <p><a href="https://towardsdatascience.com/hacking-super-intelligence-af5fe1fe6e26"><img width="150" align='left' src="https://cdn-images-1.medium.com/max/1200/1*kfl0cA4OenIaBo8m4zUHzQ.jpeg">/a><div>
   <img style="width:30px; height:30px;">
   <span style="line-height:30px;">Deploying a Simple UI for Python.</span>
 </div>
+</p>&nbsp;&nbsp;</div>
 
 
 
-<div style="width:800px;margin:200px;">
-  <p><a href="https://towardsdatascience.com/hacking-super-intelligence-af5fe1fe6e26"><img width="150" align='left' src="https://cdn-images-1.medium.com/max/1200/1*kfl0cA4OenIaBo8m4zUHzQ.jpeg">Hacking Super Intelligence</a></p>&nbsp;&nbsp;</div>
 
 <div style="width:800px;margin:200px;">
   <p><a href="https://towardsdatascience.com/low-effort-machine-learning-tools-9622d7d57135"><img width="150" align='right' src="https://cdn-images-1.medium.com/max/800/1*l-_uMYUimj73v-1JlAsXKg.jpeg">Low Effort Machine Learning Tools</a></p>&nbsp;&nbsp;
